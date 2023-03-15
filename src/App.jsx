@@ -19,6 +19,9 @@ export default function App() {
 
   const start = () => {
     console.log("Start");
+    let timer = setInterval(() => {
+      rem();
+    }, 1000);
   };
 
   return (
