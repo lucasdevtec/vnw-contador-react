@@ -1,4 +1,4 @@
-# Vai na Web - Hortfruti
+# Vai na Web - Counter
 
 This is a solution for VNW Counter. Exercise proposed by [Vai na Web](https://vainaweb.com.br/) in the Front-End Developer course.
 
